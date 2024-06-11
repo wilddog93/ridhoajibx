@@ -106,7 +106,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wilddog93&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=wilddog93&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.heroku.com/?user=wilddog93&theme=tokyonight" />
 </div>
 
 
