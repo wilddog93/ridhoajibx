@@ -97,6 +97,8 @@
     </a>
 </p>
 
+</br>
+
 ## ✨My Top Language
 [![wilddog93's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilddog93&layout=compact&langs_count=10)](https://github.com/wilddog93/) 
 
@@ -111,7 +113,7 @@
  </br>
 
 ## ✨Time to Code
-[![wilddog93's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilddgo93)](https://github.com/wilddog93/)
+[![wilddog93's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilddog93)](https://github.com/wilddog93/)
 
 <!---
 ridhoajibx/ridhoajibx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
