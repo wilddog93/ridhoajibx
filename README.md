@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harikanani/](https://github.com/wilddog93/)
+- 👨‍💻 All of my projects are available at [https://github.com/wilddog93/](https://github.com/wilddog93/)
 
 - 💬 Ask me about **JavaScript,TypeScript,ReactJS,NextJS**
 
