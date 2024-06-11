@@ -105,7 +105,7 @@
 --->
 <div align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilddog93&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=wilddog93&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=wilddog&show_icons=true&theme=tokyonight" />
 </div>
 
 </br>
