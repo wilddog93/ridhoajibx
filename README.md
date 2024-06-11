@@ -4,9 +4,9 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://www.linkedin.com/in/jumakri-ridho-fauzi"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjumakri-ridho-fauzi&logo=logo&logoColor=white"/></a>&nbsp
-<a href="https://jumakri-ridho-fauzi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjumakri-ridho-fauzi.vercel.app&logo=logo&logoColor=white" alt="jumakri-ridho-fauzi.vercel.app" /></a>&nbsp
-   <a href="mailto:ridhoajibx@gmail.com">
+<a href="https://www.linkedin.com/in/jumakri-ridho-fauzi"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.linkedin.com%2Fjumakri-ridho-fauzi&style=for-the-badge"></a>&nbsp
+<a href="https:/jumakri-ridho-fauzi.vercel.app" target="_blank"><img src="https://img.shields.io/website?label=jumakri-ridho-fauzi.vercel.app&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fjumakri-ridho-fauzi.vercel.app" alt="jumakri" /></a>&nbsp
+<a href="mailto:ridhoajibx@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harikanani2003@gmail.com" />
   </a>
 </p>
