@@ -113,7 +113,7 @@
  </br>
 
 ## ✨Time to Code
-[![wilddog93's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilddog93)](https://github.com/wilddog93/)
+[![Jumakri Ridho Fauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilddog93)](https://github.com/wilddog93/github-readme-stats)
 
 <!---
 ridhoajibx/ridhoajibx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
