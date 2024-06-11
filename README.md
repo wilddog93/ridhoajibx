@@ -4,15 +4,13 @@
 - 📫 How to reach me https://jumakri-ridho-fauzi.vercel.app
 
 <h1 align="center"> Hi, I’m Jumakri Ridho Fauzi aka @wilddog93 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://www.linkedin.com/in/jumakri-ridho-fauzi"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjumakri-ridho-fauzi%2F&logo=logo&logoColor=%23FFFFFF
-"/></a>&nbsp
-<a href="http://jumakri-ridho-fauzi.vercel.app" target="_blank"><img src="https://img.shields.io/website?label=Jumakri%2FRidho%2FFauzi&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fjumakri-ridho-fauzi.vercel.app" alt="jumakri-ridho-fauzi.vercel.app" /></a>&nbsp
+<a href="https://www.linkedin.com/in/jumakri-ridho-fauzi"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjumakri-ridho-fauzi%2F&logo=logo&logoColor=%23FFFFFF"/></a>&nbsp
+<a href="http://jumakri-ridho-fauzi.vercel.app" target="_blank"><img src="https://img.shields.io/website?label=Jumakri%20Ridho%20Fauzi&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fjumakri-ridho-fauzi.vercel.app" alt="jumakri-ridho-fauzi.vercel.app" /></a>&nbsp
    <a href="mailto:ridhoajibx@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harikanani2003@gmail.com" />
   </a>
