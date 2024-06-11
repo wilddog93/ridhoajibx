@@ -97,15 +97,15 @@
     </a>
 </p>
 
+[![wilddog93's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilddog93&layout=nord&langs_count=10)](https://github.com/wilddog93/) 
+
 ## ✨GitHub Stats  : 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wilddog93&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wilddog93&theme=tokyonight" />
 </div>
 
-<br/>  
 
-![ridho's github activity graph](https://activity-graph.vercel.app/graph?username=wilddog93&theme=nord) 
 
 
 <!---
