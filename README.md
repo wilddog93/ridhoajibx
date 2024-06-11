@@ -105,7 +105,7 @@
 
 <br/>  
 
-![ridho's github activity graph](https://activity-graph.herokuapp.com/graph?username=harikanani&theme=nord) 
+![ridho's github activity graph](https://activity-graph.vercel.app/graph?username=wilddog93&theme=nord) 
 
 
 <!---
