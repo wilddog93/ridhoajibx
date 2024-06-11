@@ -104,7 +104,7 @@
 [![wilddog93's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilddog93&layout=compact&langs_count=10)](https://github.com/wilddog93/) 
 --->
 <div align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilddog93&show_icons=true&theme=tokyonight" />
+    <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilddog93&show_icons=true&theme=tokyonight" />
 </div>
 
 </br>
