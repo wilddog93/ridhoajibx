@@ -10,8 +10,8 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://www.linkedin.com/in/jumakri-ridho-fauzi"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjumakri-ridho-fauzi%2F%3Ftrk%3Dopento_sprofile_details"/></a>&nbsp
-<a href="http://jumakri-ridho-fauzi.vercel.app" target="_blank"><img src="https://img.shields.io/website?label=wilddog93.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fwilddog93.github.io" alt="harikanani.github.io" /></a>&nbsp
+<a href="https://www.linkedin.com/in/jumakri-ridho-fauzi"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjumakri-ridho-fauzi%2F%3Ftrk%3Dopento_sprofile_details?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="http://jumakri-ridho-fauzi.vercel.app" target="_blank"><img src="https://img.shields.io/website?label=Jumakri%2FRidho%2FFauzi&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fjumakri-ridho-fauzi.vercel.app" alt="jumakri-ridho-fauzi.vercel.app" /></a>&nbsp
    <a href="mailto:ridhoajibx@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harikanani2003@gmail.com" />
   </a>
